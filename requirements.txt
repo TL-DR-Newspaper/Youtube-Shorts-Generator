@@ -1,0 +1,5 @@
+moviepy
+#Imagemagick but that can't be installed through Pip
+#See: https://imagemagick.org/script/download.php#macosx
+#brew install imagemagick
+#brew install ghostscript #THis is a dependancy of imagemagick
